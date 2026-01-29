@@ -63,11 +63,10 @@ excerpt_separator: "<!-- more -->"
 #   input: GFM # use Github Flavored Markdown !important
 #   parse_block_html: true
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+# 自定义导航菜单（取消注释，汉堡菜单会自动显示这两个选项）
+header_pages:
+  - about.md       # 关于页
+  - links.md       # 友情链接页
 
 # Build settings
-
 theme: minima
