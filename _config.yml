@@ -1,0 +1,9 @@
+title: 瓦特准可的博客 # 比如：我的Minima博客
+author: 瓦特准可     # 比如：张三
+baseurl: ""
+url: "https://imfgage-spec.github.io" # 比如：https://test.github.io
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
