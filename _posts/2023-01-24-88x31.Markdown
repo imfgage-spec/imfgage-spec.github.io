@@ -1,5 +1,5 @@
 ---
-title: 我们仍未知道那天所看见的 88 × 31 的名字
+title: 我们仍未知道那天所看见的 88 × 31 的名字（转载Gledos）
 layout: post
 published: true
 # header-img: "img/bg/pixiv_53864290.svg"
